@@ -1,0 +1,16 @@
+{
+	"name":"mtod/get-subscription-details",
+	"description":"Get MTOD subscription details",
+	"type":"wordpress-plugin",
+	"license":"MIT",
+	"authors":[
+		{
+			"name":"Jason Ingram",
+			"email":"jsoningram@gmail.com"
+		}
+	],
+	"require":{
+		"php":">=5.4.0",
+		"composer/installers":"~1.0"
+	}
+}
